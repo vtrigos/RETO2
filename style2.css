@@ -1,0 +1,31 @@
+/*ensayo*/
+
+h1, h2, p {
+    font-family: helvetica;
+}
+
+#sec_princ{
+    background-color: rgb(237, 245, 255);
+}
+
+.subtitulo{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.principal{
+    background-color: rgb(124, 22, 22);
+    color:white;
+    text-align: center;
+    font-size: 50px;
+}
+
+.contenedor p{
+    color: rgb(26, 110, 38);
+ }
+
+h2 + p{
+   font-size: 20px; 
+}
+
+ 

@@ -1,0 +1,36 @@
+h1 {
+    background-color: rgb(4, 94, 4);
+    font-size: 100px;
+    color: white;
+    text-align: center;
+}
+
+p {
+    font-family: Helvetica;
+    font-size: 20px;
+}
+
+.tit2 {
+    color: slategray;
+    font-size: 50px;
+    text-align: center;
+}
+
+.align_img{
+        text-align: center;
+}
+
+article{
+    background-color: rgb(243, 240, 240);
+    border: 4px solid rgb(4, 94, 4);
+}
+
+div + p{
+    font-style: italic;
+    color: green;
+}
+
+h2 + p{
+    font-style: italic;
+    color: rgb(45, 45, 138);
+}
